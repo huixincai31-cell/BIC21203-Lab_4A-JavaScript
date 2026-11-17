@@ -54,16 +54,16 @@ This webpage dynamically generates an ordered list from 1 to 5 using a `for` loo
 
 ### Question 1 - Interactive Text Changer
 
-![Question 1 Output](screenshots/Q1_textChanger-output.png)
+![Question 1 Output](screenshots/Q1-textChanger-output.png)
 
 ### Question 2 - Smart Number Validator
 
-![Question 2 Output](screenshots/Q2_numberValidation-output-1.png)
-![Question 2 Output](screenshots/Q2_numberValidation-output-2.png)
+![Question 2 Output (1)](screenshots/Q2-numberValidator-output-1.png)
+![Question 2 Output (2)](screenshots/Q2-numberValidator-output-2.png)
 
 ### Question 3 - Dynamic Number Generator
 
-![Question 3 Output](screenshots/Q3_numberGenerator-output.png)
+![Question 3 Output](screenshots/Q3-numberGenerator-output.png)
 
 ## Conclusion
 
